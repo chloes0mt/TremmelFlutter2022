@@ -1,0 +1,29 @@
+﻿Chloe Tremmel
+Professor Burd 
+Mobile Application Development
+21/9/2022
+
+
+Topic: Food
+
+
+1. The three things that my project does well are the following: 
+* Runs without any errors.
+* The space between each question is reasonable, everything looks appropriately spaced out.
+* It looks as similar as I could make it look to the example provided in the video
+* The slider is functional.
+* The logic is mostly correct and an output is returned at the end when the user submits the survey. 
+
+
+2. There are many things that my project doesn’t do well, among them being the following: 
+* The selected answers for the radio buttons do not appear to be saved nor reflected  in the UI upon being selected.
+* I intended to implement a function that takes the value of the switch and changes the visibility of the cheese drop down menu based on whether it’s true or false, but I couldn’t figure out how to do that in Flutter so I made that logic part of the message to the user. (Example: “You can have cheese because you’re not lactose intolerant.”)
+* I couldn’t figure out how to turn the selected values in the drop down menus into a string for the resulting output.
+
+
+3. URLs:
+* https://www.youtube.com/watch?v=XuxpCYyrKoE&t=91s – drop down list tutorial 
+* https://www.youtube.com/watch?v=JLdit0tnwp8 – radio button tutorial
+* https://www.youtube.com/watch?v=eWa6iGncZ5Q – text field tutorial
+* https://api.flutter.dev/flutter/material/Slider-class.html - slider tutorial
+* I also referenced various classwork assignments.
