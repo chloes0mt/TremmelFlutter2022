@@ -1,0 +1,25 @@
+Chloe Tremmel
+Professor Burd 
+Mobile Application Development
+11/10/2022
+
+Topic: Food
+
+The three things that my project does well are the following: 
+Runs without any errors.
+The space between each question is reasonable, everything looks appropriately spaced out.
+It looks as similar as I could make it look to the example provided in the video
+All the widgets are fully functional and input is saved when the user clicks or enters text into them.
+The logic is correct and runs as envisioned. 
+The code itself is more concise and neatly formatted than it was a few weeks ago.
+The project successfully incorporates navigation with named routes.
+
+There are many things that my project doesn’t do well, among them being the following: 
+Use the HTTP library to effectively scrape the web for urls containing recipes containing ingredients the user prefers. This is likely due to scope issues that I’ll look into as we start to learn flutter http requests in class. 
+
+URLs:
+https://www.youtube.com/watch?v=XuxpCYyrKoE&t=91s – drop down list tutorial 
+https://www.youtube.com/watch?v=JLdit0tnwp8 – radio button tutorial
+https://www.youtube.com/watch?v=eWa6iGncZ5Q – text field tutorial
+https://api.flutter.dev/flutter/material/Slider-class.html - slider tutorial
+I also referenced various classwork assignments, especially for the route/navigation features. 
